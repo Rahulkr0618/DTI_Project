@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/baseline_feedback_24_black"
+        android:id="@+id/navfeedback"
+        android:title="Feedback"/>
+
+    <item
+        android:icon="@drawable/rush_hour_black"
+        android:id="@+id/navrush"
+        android:title="Rush Hours"/>
+
+    <item
+        android:icon="@drawable/baseline_logout_24_black"
+        android:id="@+id/navlogout"
+        android:title="Logout"/>
+
+</menu>
